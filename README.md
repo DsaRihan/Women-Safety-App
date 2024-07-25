@@ -31,15 +31,15 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/yourusername/women-safety-app.git
    cd women-safety-app
 
-2. **Open the Project:
+2. **Open the Project**:
 Launch Android Studio.
 Open the women-safety-app project.
 
-3. **Build the Project:
+3. **Build the Project**:
 Let Android Studio download necessary dependencies.
 Build the project to ensure all components are correctly set up.
 
-4. **Run the App:
+4. **Run the App**:
 Connect your Android device or start an emulator.
 Click on the Run button in Android Studio to install and start the app on your device.
 
